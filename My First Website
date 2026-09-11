@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website </title>
+</head>
+<body>
+    <h1>Hello Duniya! 👋</h1>
+    <h2>Ye meri pehli website hai</h2>
+    <p>Main Rihandnagar se hu aur coding seekh raha hu.</p>
+    <hr>
+    <p>Aaj ka Date: 11 Sept 2026</p>
+    <button>Welcome</button>
+</body>
+</html>
